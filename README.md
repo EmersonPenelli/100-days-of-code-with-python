@@ -1,7 +1,7 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 
-![100-days-of-code]()
+![100-days-of-code](https://github.com/EmersonPenelli/100-days-of-code-with-python-gifs/blob/main/100%20days%20of%20code.PNG)
 
 A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
