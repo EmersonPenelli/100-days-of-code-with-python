@@ -1,6 +1,6 @@
 ## Dia 4 - Randomização e Listas em Python
 
-#Conceitos Praticados
+# Conceitos Praticados
 
 -Módulo de Aleatoriedade (Random) <br/>
 -Compreensão do Deslocamento (Offset) e Adição de Itens a Listas <br/>
