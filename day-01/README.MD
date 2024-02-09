@@ -2,12 +2,12 @@
 
 ## Conceitos Praticados
 
-Impressão no Console em Python
-Manipulação de Strings e Inteligência de Código
-Debugging (Depuração)
-A Função de Entrada em Python
-Variáveis em Python
-Nomenclatura de Variáveis
+-Impressão no Console em Python
+-Manipulação de Strings e Inteligência de Código
+-Debugging (Depuração)
+-A Função de Entrada em Python
+-Variáveis em Python
+-Nomenclatura de Variáveis
 
 # Gerador de Nomes de Bandas
 
