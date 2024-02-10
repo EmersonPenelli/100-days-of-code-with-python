@@ -8,6 +8,6 @@
 * Manipulação de Números e Strings Formatadas (F Strings) em Python <br/>
 
 ## Tip Calculator
-![day-02](https://github.com/EmersonPenelli/100-days-of-code-with-python-gifs/blob/main/Calculadora%20de%20gorjeta.gif)
+![day-02](https://github.com/EmersonPenelli/100-days-of-code-with-python/blob/main/gifs/Calculadora%20de%20gorjeta.gif)
 
 https://replit.com/@emersonpenelli/tip-calculator-start
