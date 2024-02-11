@@ -12,6 +12,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 3:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-03) Fluxo de Controle e Operadores Lógicos
 - [Day 4:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-04) Randomização e Listas em Python
 - [Day 5:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-05) Laços (Loops) em Python
+- [Day 6:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-06) Funções em Python & Karel
 
 
 ## ⚙ Ferramentas e Tecnologias 
