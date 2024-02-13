@@ -14,6 +14,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 5:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-05) Laços (Loops) em Python
 - [Day 6:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-06) Funções em Python & Karel
 - [Day 7:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-07) Jogo da Forca
+- [Day 8:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-08) Parâmetros de Função e Cifra de César
 
 
 
