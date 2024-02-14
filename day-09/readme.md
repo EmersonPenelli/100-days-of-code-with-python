@@ -6,4 +6,4 @@
 
 ## O Programa de Leilão Secreto
 
-![day09](https://github.com/EmersonPenelli/100-days-of-code-with-python/blob/main/gifs/O%20Programa%20de%20leil%C3%A3o%20secreto.gif)
+![day09](https://github.com/EmersonPenelli/100-days-of-code-with-python/blob/main/gifs/O%20programa%20do%20Leil%C3%A3o%20secreto.gif)
