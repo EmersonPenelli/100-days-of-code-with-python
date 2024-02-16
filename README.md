@@ -16,7 +16,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 7:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-07) Jogo da Forca
 - [Day 8:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-08) Parâmetros de Função e Cifra de César
 - [Day 9:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-09) Dicionários, Aninhamento e o Leilão Secreto
-- [Day 10:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/dia-10) Funções com Saídas
+- [Day 10:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-10) Funções com Saídas
 - [Day 11:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-11) Projeto Final de Blackjack
 
 
