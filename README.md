@@ -18,7 +18,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 9:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-09) Dicionários, Aninhamento e o Leilão Secreto
 - [Day 10:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-10) Funções com Saídas
 - [Day 11:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-11) Projeto Final de Blackjack
-
+- [Day 12:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-12) O jogo de Advinhação de número
 
 
 
