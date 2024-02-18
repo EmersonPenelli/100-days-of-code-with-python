@@ -1,4 +1,4 @@
-#Instruções
+# Instruções
 
 * Leia o código em main.py.
 * Identifique os problemas.
