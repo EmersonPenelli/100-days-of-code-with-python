@@ -25,7 +25,6 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
 
 
-https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16
 
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
