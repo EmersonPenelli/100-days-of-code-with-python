@@ -22,8 +22,10 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 13:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-13) Depuração: Como Encontrar e Corrigir Erros no Seu Código
 - [Day 14:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-14) Projeto do Jogo Maior Menor
 - [Day 15:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-15) Configuração do Ambiente de Desenvolvimento Local e a Máquina de Café
+- [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
 
 
+https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16
 
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
