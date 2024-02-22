@@ -21,10 +21,12 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 12:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-12) O jogo de Advinhação de número
 - [Day 13:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-13) Depuração: Como Encontrar e Corrigir Erros no Seu Código
 - [Day 14:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-14) Projeto do Jogo Maior Menor
+
+## 📚 Intermediário
 - [Day 15:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-15) Configuração do Ambiente de Desenvolvimento Local e a Máquina de Café
 - [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
 - [Day 17:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-17) O Projeto de Quiz e os Benefícios da Programação Orientada a Objetos (OOP)
-
+- [Day 18:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-18) Tartaruga e a Interface Gráfica do Usuário (GUI)
 
 
 ## ⚙ Ferramentas e Tecnologias 
