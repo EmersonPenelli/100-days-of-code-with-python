@@ -27,6 +27,8 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
 - [Day 17:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-17) O Projeto de Quiz e os Benefícios da Programação Orientada a Objetos (OOP)
 - [Day 18:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-18) Tartaruga e a Interface Gráfica do Usuário (GUI)
+- [Day 19:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-19) Instâncias, Estado e Funções de Ordem Superior
+
 
 
 ## ⚙ Ferramentas e Tecnologias 
