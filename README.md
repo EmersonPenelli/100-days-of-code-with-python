@@ -28,7 +28,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 17:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-17) O Projeto de Quiz e os Benefícios da Programação Orientada a Objetos (OOP)
 - [Day 18:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-18) Tartaruga e a Interface Gráfica do Usuário (GUI)
 - [Day 19:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-19) Instâncias, Estado e Funções de Ordem Superior
-
+- [Day 20:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-20) Construir o Jogo da Cobra Parte 1: Animação e Coordenadas
 
 
 ## ⚙ Ferramentas e Tecnologias 
