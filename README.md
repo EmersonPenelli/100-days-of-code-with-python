@@ -33,6 +33,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 22:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-22) Construa o Pong: O Famoso Jogo de Arcade
 - [Day 23:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-23) Projeto de conclusão: Travessia da Tartaruga
 - [Day 24:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-24) Arquivos, Diretórios e Caminhos
+- [Day 25:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-24) Trabalhando com Dados CSV e a Biblioteca Pandas
 
 
 
