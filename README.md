@@ -35,6 +35,12 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 24:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-24) Arquivos, Diretórios e Caminhos
 - [Day 25:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-24) Trabalhando com Dados CSV e a Biblioteca Pandas
 - [Day 26:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-26) Compreensão de Lista e o Alfabeto da OTAN
+- [Day 27:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-27) Tkinter, *args, **kwargs e Criação de Programas de Interface Gráfica (GUI)
+- [Day 28:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-28) Tkinter, Tipagem Dinâmica e a Aplicação GUI
+
+
+
+
 
 
 ## ⚙ Ferramentas e Tecnologias 
