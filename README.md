@@ -38,8 +38,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 27:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-27) Tkinter, *args, **kwargs e Criação de Programas de Interface Gráfica (GUI)
 - [Day 28:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-28) Tkinter, Tipagem Dinâmica e a Aplicação GUI
 - [Day 29:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-29) Construindo um Aplicativo GUI de Gerenciador de Senhas com Tkinter
-
-
+- [Day 30:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-30) Erros, Exceções e Dados JSON: Aprimorando o Gerenciador de Senhas
 
 
 
