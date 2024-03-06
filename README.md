@@ -22,6 +22,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 13:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-13) Depuração: Como Encontrar e Corrigir Erros no Seu Código
 - [Day 14:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-14) Projeto do Jogo Maior Menor
 
+
 ## 📚 Intermediário
 - [Day 15:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-15) Configuração do Ambiente de Desenvolvimento Local e a Máquina de Café
 - [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
@@ -39,6 +40,10 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 28:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-28) Tkinter, Tipagem Dinâmica e a Aplicação GUI
 - [Day 29:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-29) Construindo um Aplicativo GUI de Gerenciador de Senhas com Tkinter
 - [Day 30:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-30) Erros, Exceções e Dados JSON: Aprimorando o Gerenciador de Senhas
+- [Day 31:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-31) Projeto Final do Aplicativo de Cartões Didáticos
+
+## 👨‍💻 Intermediate+
+
 
 
 
