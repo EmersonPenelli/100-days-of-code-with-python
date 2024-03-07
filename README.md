@@ -43,8 +43,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 31:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-31) Projeto Final do Aplicativo de Cartões Didáticos
 
 ## 👨‍💻 Intermediate+
-
-
+- [Day 32:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-32) Enviar E-mail (smtplib) e Gerenciar Datas (datetime)
 
 
 ## ⚙ Ferramentas e Tecnologias 
