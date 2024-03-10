@@ -46,6 +46,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 32:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-32) Enviar E-mail (smtplib) e Gerenciar Datas (datetime)
 - [Day 33:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-33) Pontos de Extremidade da API e Parâmetros da API - Notificador de Passagem da ISS
 - [Day 34:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-34) Prática de API - Criando um Aplicativo de Quiz com GUI
+- [Day 35:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-35) Chaves, Autenticação e Variáveis de Ambiente - Notificador de Chuva no Telegram
 
   
 ## ⚙ Ferramentas e Tecnologias 
