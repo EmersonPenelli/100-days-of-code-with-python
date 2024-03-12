@@ -48,6 +48,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 34:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-34) Prática de API - Criando um Aplicativo de Quiz com GUI
 - [Day 35:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-35) Chaves, Autenticação e Variáveis de Ambiente - Notificador de Chuva no Telegram
 - [Day 36:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-36) Projeto de Alerta de Notícias de Negociação de Ações
+- [Day 37:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-37) Projeto de Rastreamento de Hábitos: Solicitações de Post da API e Cabeçalhos
 
   
 ## ⚙ Ferramentas e Tecnologias 
