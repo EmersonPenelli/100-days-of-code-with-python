@@ -1,4 +1,4 @@
-# Dia 40 - Capstone Parte 2: Clube de Voo
+# Dia 40 - Parte 2 do Projeto Final: Clube de Voo
 
 ## Conceitos Praticados
 
