@@ -51,7 +51,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 37:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-37) Projeto de Rastreamento de Hábitos: Solicitações de Post da API e Cabeçalhos
 - [Day 38:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-38) Rastreamento de Treino usando Google Sheets
 - [Day 39:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-39) Parte 1 do Projeto Final: Localizador de Ofertas de Voos
-
+- [Day 40:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-40) Parte 2 do Projeto Final: Clube de Voo
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
