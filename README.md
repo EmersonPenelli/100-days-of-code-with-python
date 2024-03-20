@@ -52,6 +52,11 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 38:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-38) Rastreamento de Treino usando Google Sheets
 - [Day 39:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-39) Parte 1 do Projeto Final: Localizador de Ofertas de Voos
 - [Day 40:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-40) Parte 2 do Projeto Final: Clube de Voo
+- [Day 41:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-41) Introdução ao HTML
+- [Day 42:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-42) HTML Intermediário
+- [Day 43:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-43) Introdução ao CSS
+- [Day 44:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-44) CSS Intermediário
+- [Day 45:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-45) Web Scraping com Beautiful Soup
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
