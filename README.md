@@ -59,6 +59,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 45:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-45) Web Scraping com Beautiful Soup
 - [Day 46:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-46) Criar uma Playlist do Spotify Usando a Máquina do Tempo Musical
 - [Day 47:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-47) Criar um Rastreador Automatizado de Preços da Amazon
+- [Day 48:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-48) Navegador do Selenium Webdriver e Bot de Jogo
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
