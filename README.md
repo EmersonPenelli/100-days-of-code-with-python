@@ -61,6 +61,9 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 47:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-47) Criar um Rastreador Automatizado de Preços da Amazon
 - [Day 48:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-48) Navegador do Selenium Webdriver e Bot de Jogo
 - [Day 49:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-49) Automatizando Candidaturas de Emprego no LinkedIn
+- [Day 50:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-50) Bot de Deslizamento Automático no Tinder
+- [Day 51:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-51) Bot de Reclamações no Twitter sobre Velocidade da Internet
+
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
