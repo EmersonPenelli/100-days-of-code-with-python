@@ -63,6 +63,9 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 49:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-49) Automatizando Candidaturas de Emprego no LinkedIn
 - [Day 50:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-50) Bot de Deslizamento Automático no Tinder
 - [Day 51:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-51) Bot de Reclamações no Twitter sobre Velocidade da Internet
+- [Day 52:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-52) Bot Seguidor do Instagram
+- [Day 53:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-53) Projeto de Web Scraping - Automação de Trabalho de Entrada de Dados
+- [Day 54:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-54) Introdução ao Desenvolvimento Web com Flask
 
   
 ## ⚙ Ferramentas e Tecnologias 
