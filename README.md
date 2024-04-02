@@ -69,7 +69,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 55:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-55) Análise de HTML e URLs no Flask e o Jogo Higher Lower
 - [Day 56:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-56) Renderizando Arquivos HTML/Estáticos e Utilizando Modelos de Site
 - [Day 57:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-57) Templating com Jinja em Aplicações Flask
-
+- [Day 58:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-58) Fundamentos da Web com Bootstrap
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
