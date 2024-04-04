@@ -23,6 +23,8 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 14:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-14) Projeto do Jogo Maior Menor
 
 
+<br>
+
 ## 📚 Intermediário
 - [Day 15:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-15) Configuração do Ambiente de Desenvolvimento Local e a Máquina de Café
 - [Day 16:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-16) Máquina de café com programação orientada a objetos
@@ -41,6 +43,8 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 29:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-29) Construindo um Aplicativo GUI de Gerenciador de Senhas com Tkinter
 - [Day 30:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-30) Erros, Exceções e Dados JSON: Aprimorando o Gerenciador de Senhas
 - [Day 31:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-31) Projeto Final do Aplicativo de Cartões Didáticos
+
+<br>
 
 ## 👨‍💻 Intermediate+
 - [Day 32:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-32) Enviar E-mail (smtplib) e Gerenciar Datas (datetime)
@@ -71,8 +75,13 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 57:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-57) Templating com Jinja em Aplicações Flask
 - [Day 58:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-58) Fundamentos da Web com Bootstrap
 
+<br>
+
+
   ## 🏆 Advanced
 - [Day 59:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-59) Blog Capstone Project Part 2 - Adding Styling
+- [Day 60:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-60) Fazendo Solicitações POST com Flask e Formulários HTML
+
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
