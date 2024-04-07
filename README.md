@@ -83,6 +83,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 60:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-60) Fazendo Solicitações POST com Flask e Formulários HTML
 - [Day 61:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-61) Construindo Formulários Avançados com Flask-WTForms
 - [Day 62:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-62) Projeto Café & Wifi - Flask, WTForms, Bootstrap e CSV
+- [Day 63:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-6) Bancos de Dados com SQLite e SQLAlchemy
 
 
   
