@@ -86,7 +86,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 63:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-63) Bancos de Dados com SQLite e SQLAlchemy
 - [Day 64:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-64) Meu Site com os Top 10 Filmes
 - [Day 65:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-65) Como Criar um Website Que as Pessoas Vão Amar
-
+- [Day 66:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-66) Criando sua Própria API com Roteamento RESTful
 
   
 ## ⚙ Ferramentas e Tecnologias 
