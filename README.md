@@ -89,6 +89,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 66:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-66) Criando sua Própria API com Roteamento RESTful
 - [Day 67:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-67) Projeto Capstone Parte 3 - Roteamento RESTful
 - [Day 68:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-68) Autenticação com Flask
+- [Day 69:](https://github.com/EmersonPenelli/100-days-of-code-with-python/new/main/day-69) Projeto Capstone do Blog Parte 4 - Adicionando Usuários
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
