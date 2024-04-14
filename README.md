@@ -90,6 +90,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 67:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-67) Projeto Capstone Parte 3 - Roteamento RESTful
 - [Day 68:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-68) Autenticação com Flask
 - [Day 69:](https://github.com/EmersonPenelli/100-days-of-code-with-python/new/main/day-69) Projeto Capstone do Blog Parte 4 - Adicionando Usuários
+- [Day 70:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-70) Git, Github e Versionamento
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
