@@ -1,4 +1,4 @@
-# Dia 72 - Exploração de Dados com Pandas: Major da Faculdade vs. Seu Salário
+# Dia 72 - Exploração de Dados com Pandas
 
 ## Conceitos Praticados
 
