@@ -94,6 +94,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 71:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-71) Implantação da sua Aplicação Web com Heroku
 - [Day 72:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-72) Exploração de Dados com Pandas
 - [Day 73:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-73) Visualização de Dados com Matplotlib: Linguagens de Programação
+- [Day 74:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-74) Agregação e Fusão de Dados com Pandas: Analisar o Conjunto de Dados do Lego
   
   
 ## ⚙ Ferramentas e Tecnologias 
