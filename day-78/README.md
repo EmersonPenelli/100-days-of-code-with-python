@@ -10,3 +10,4 @@
 
 ## Seaborn Regression Plot
 
+<img width="1315" alt="day78" src="https://github.com/EmersonPenelli/100-days-of-code-with-python/blob/main/gifs/day-78-LinearRegression.png">
