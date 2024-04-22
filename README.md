@@ -98,6 +98,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 75:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-75) Google Trends Data: Resampling and Visualising Time Series
 - [Day 76:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-76) Belos Gráficos do Plotly & Análise da Play Store para Android
 - [Day 77:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-77) Computação com NumPy e Arrays N-Dimensionais
+- [Day 78:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-78) Regressão Linear e Visualização de Dados com Seaborn
   
   
   
