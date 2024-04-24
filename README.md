@@ -99,7 +99,8 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 76:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-76) Belos Gráficos do Plotly & Análise da Play Store para Android
 - [Day 77:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-77) Computação com NumPy e Arrays N-Dimensionais
 - [Day 78:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-78) Regressão Linear e Visualização de Dados com Seaborn
-  
+- [Day 79:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-79) Analisando o Prêmio Nobel com Plotly, Matplotlib e Seaborn
+- [Day 80:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-80) A Trágica Descoberta da Lavagem das Mãos: Testes t e Distribuições
   
   
 ## ⚙ Ferramentas e Tecnologias 
