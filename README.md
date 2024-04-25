@@ -101,7 +101,12 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 78:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-78) Regressão Linear e Visualização de Dados com Seaborn
 - [Day 79:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-79) Analisando o Prêmio Nobel com Plotly, Matplotlib e Seaborn
 - [Day 80:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-80) A Trágica Descoberta da Lavagem das Mãos: Testes t e Distribuições
-  
+- 
+<br>
+
+## ⚔ Professional Portfolio Projects
+- [Day 81:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-81) Projeto Final - Prever Preços de Casas
+
   
 ## ⚙ Ferramentas e Tecnologias 
 - Python 3
