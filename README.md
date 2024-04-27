@@ -106,6 +106,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 
 ## ⚔ Professional Portfolio Projects
 - [Day 81:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-81) Projeto Final - Prever Preços de Casas
+- [Day 82:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-82) Projeto Final - Conversor de Texto para Código Morse
 
   
 ## ⚙ Ferramentas e Tecnologias 
