@@ -108,6 +108,9 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 81:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-81) Projeto Final - Prever Preços de Casas
 - [Day 82:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-82) Projeto Final - Conversor de Texto para Código Morse
 - [Day 83:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-83) Site de Portfólio
+- [Day 84:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-84) Jogo da Velha
+- [Day 85:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-85) Aplicativo Desktop de Marcação de Imagem
+
 
   
 ## ⚙ Ferramentas e Tecnologias 
