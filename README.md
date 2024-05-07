@@ -113,6 +113,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 86:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-86) Aplicativo de Teste de Velocidade de Digitação
 - [Day 87:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-87) Breakout: O Famoso Jogo de Arcade
 - [Day 88:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-88) Site de Café e Wifi
+- [Day 89:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-89) Aplicativo de Agenda de Tarefas
 
 
   
