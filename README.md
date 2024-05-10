@@ -116,6 +116,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 89:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-89) Aplicativo de Agenda de Tarefas
 - [Day 90:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-90) Aplicativo de Fluxo de Digitação
 - [Day 91:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-91) Converter PDF para Audiobook
+- [Day 92:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-92) Imagem para Lista de Cores
 
 
   
