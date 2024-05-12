@@ -118,6 +118,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 91:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-91) Converter PDF para Audiobook
 - [Day 92:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-92) Imagem para Lista de Cores
 - [Day 93:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-93) Custom WebScraping
+- [Day 94:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-94) Bot do Jogo do Dinossauro do Google
 
 
   
