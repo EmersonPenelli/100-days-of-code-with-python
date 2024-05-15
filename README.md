@@ -121,6 +121,7 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 94:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-94) Bot do Jogo do Dinossauro do Google
 - [Day 95:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-95) Space Invaders
 - [Day 96:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-96) API Personalizada
+- [Day 97:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-97) Uma Loja Online
 
 
 
