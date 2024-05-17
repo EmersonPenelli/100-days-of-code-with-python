@@ -123,6 +123,8 @@ A maioria das ideias dos projetos vem do curso da Udemy: [100 Days of Code: The 
 - [Day 96:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-96) API Personalizada
 - [Day 97:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-97) Uma Loja Online
 - [Day 98:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-98) Automatização customizada
+- [Day 99:](https://github.com/EmersonPenelli/100-days-of-code-with-python/tree/main/day-99) Analisando e Visualizando a Corrida Espacial
+
 
 
 
